@@ -16,13 +16,12 @@
   lts-17 = callPackage ./lts-1.7 {};
   lts-18 = callPackage ./lts-1.8 {};
   lts-19 = callPackage ./lts-1.9 {};
-  # TODO: (#20)
-  #lts-110 = callPackage ./lts-1.10 {};
-  #lts-111 = callPackage ./lts-1.11 {};
-  #lts-112 = callPackage ./lts-1.12 {};
-  #lts-113 = callPackage ./lts-1.13 {};
-  #lts-114 = callPackage ./lts-1.14 {};
-  #lts-115 = callPackage ./lts-1.15 {};
+  lts-110 = callPackage ./lts-1.10 {};
+  lts-111 = callPackage ./lts-1.11 {};
+  lts-112 = callPackage ./lts-1.12 {};
+  lts-113 = callPackage ./lts-1.13 {};
+  lts-114 = callPackage ./lts-1.14 {};
+  lts-115 = callPackage ./lts-1.15 {};
   lts-20 = callPackage ./lts-2.0 {};
   lts-21 = callPackage ./lts-2.1 {};
   lts-22 = callPackage ./lts-2.2 {};
@@ -225,4 +224,10 @@
   lts-1112 = callPackage ./lts-11.12 {};
   lts-1113 = callPackage ./lts-11.13 {};
   lts-1114 = callPackage ./lts-11.14 {};
+  lts-1115 = callPackage ./lts-11.15 {};
+  lts-1116 = callPackage ./lts-11.16 {};
+  lts-1117 = callPackage ./lts-11.17 {};
+  lts-120 = callPackage ./lts-12.0 {};
+  lts-121 = callPackage ./lts-12.1 {};
+  lts-122 = callPackage ./lts-12.2 {};
 }
